@@ -1,5 +1,5 @@
 # PrivHab-demo
-Interactive demonstration for AAMAS 2015 conference: http://www.aamas2015.com/en/AAMAS_2015_USB/aamas/p1943.pdf
+Interactive demonstration for AAMAS 2015 conference: [https://www.ifaamas.org/Proceedings/aamas2015/aamas/p1943.pdf](https://www.ifaamas.org/Proceedings/aamas2015/aamas/p1943.pdf)
 
 Requirements:
  * python2
